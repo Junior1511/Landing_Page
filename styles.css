@@ -117,3 +117,44 @@ a{
 .author{
     font-size: 24px;
 }
+
+/* p4 */
+
+.p4{
+    margin: 50px 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.blue-container{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+    border-radius: 8px;
+    width: 800px;
+    padding: 32px 64px;
+    align-items: center;
+}
+
+.button-2{
+    background-color: #3882f6 ;
+    color: white;
+    border-radius: 8px;
+    border: white 1px solid;
+    height: 30px;
+    padding: 0 24px;
+}
+
+.b-c-text{
+    color: #f9faf8;
+    margin: 0;
+}
+
+.footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 16px;
+    font-size: large;
+    text-align: center;
+}
